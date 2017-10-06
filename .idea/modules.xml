@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MovieLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/MovieLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MovieLibrary_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MovieLibrary_main.iml" group="MovieLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MovieLibrary_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MovieLibrary_test.iml" group="MovieLibrary" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+[ 
+   { 
+     "title": "Dom zly", 
+     "year": "2009", 
+    "film_genre": "dramat", 
+    "director_first_name": "Wojciech", 
+	"director_last_name": "Smarzowski" 
+    "actor_first_name": "Arkadiusz", 
+    "actor_last_name": "Jakubik" 
+  }, 
+   { 
+    "title": "Wesele", 
+    "year": "2004", 
+     "film_genre": "dramat", 
+    "director_first_name": "Wojciech", 
+    "director_last_name": "Smarzowski" 
+ 	"actor_first_name": "Arkadiusz", 
+    "actor_last_name": "Jakubik" 
+   } 
+   ] 
